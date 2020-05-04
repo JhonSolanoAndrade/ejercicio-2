@@ -1,0 +1,11 @@
+commit 233e4cbfa2cff00d96f53f7ee8eebb9a538398b2
+Author: jhon solano <jhonsolano1@hotmail.com>
+Date:   Mon May 4 17:24:25 2020 -0500
+
+    paso 1
+
+commit 08c88aa23900cd759db7485183b793e2964de191
+Author: jhon solano <jhonsolano1@hotmail.com>
+Date:   Mon May 4 17:20:56 2020 -0500
+
+    Inicio del proyecto en blanco
